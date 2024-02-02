@@ -20,3 +20,11 @@
          - Choose the ASP.NET Core Web API template.<br>
          - Add NuGet packages (e.g., Microsoft.EntityFrameworkCore.InMemory) for database support.<br>
          - Test the project using Swagger (automatically generated API documentation).<br>
+5. Usage
+    - Adding a Note
+    - Saving Notes
+    - Deleting Notes
+    - Editing Notes
+
+
+       
