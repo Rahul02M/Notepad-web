@@ -1,7 +1,7 @@
 # NOTEPAD✍️
 
 1. Introduction
-    - In this project, i build a NotePad website using HTML, CSS, JavaScript for (fornt-end) and asp.net core web api(Back-end) . The goal is to understand the mechanics of how ASP.NET Core Web Api servers work together with the front-end.🚀🌟
+    - In this project, i build a NotePad website using HTML, CSS, JavaScript for (fornt-end) and asp.net core web api(Back-end) . The goal is to understand the mechanics of how ASP.NET Core Web Api servers work together with the front-end. An API stands for Application Programming Interface. It’s like a bridge that allows different software programs to communicate with each other.🚀🌟
 
 2. Front-End and Back-End Basics:
      - Front-End:This refers to the client side—the user interface (UI)💻 that users interact with.HTML,CSS,JS and Common frameworks include ReactJS, VueJS, and Angular.<br>
