@@ -9,7 +9,7 @@
        
 3. Connecting Front-End and Back-End:🌐
    - Regardless of the chosen architecture, communication between front-end and back-end follows similar principles.
-   - Let’s say we’re NOTEPAD:
+   - Let’s say we’re NOTEPAD:<br>
          - You choose Angular (front-end) and Nodejs  (back-end).
          - I choose HTML, CSS , JS and ASP.NET (back-end).
   - Both approaches achieve the same goal, but with different languages.
