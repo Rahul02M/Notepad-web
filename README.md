@@ -13,3 +13,10 @@
          - You choose Angular (front-end) and Nodejs  (back-end).<br>
          - I choose HTML, CSS , JS and ASP.NET (back-end).<br>
    - Both approaches achieve the same goal, but with different languages.
+
+4. Creating an ASP.NET Core Web API:
+    - You can build a controller-based web API that uses a database:<br>
+         . Create a new project using Visual Studio or Visual Studio Code.<br>
+         . Choose the ASP.NET Core Web API template.<br>
+         . Add NuGet packages (e.g., Microsoft.EntityFrameworkCore.InMemory) for database support.<br>
+         . Test the project using Swagger (automatically generated API documentation).<br>
