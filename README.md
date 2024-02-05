@@ -27,6 +27,7 @@
     - Editing Notes
 
 6. Screenshots
+
 ![Notepad](https://github.com/Rahul02M/Note-app/assets/133855195/d4335b05-1314-4f35-91a9-3800008ba0a3)
 
        
